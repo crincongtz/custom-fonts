@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomFonts</string>
+
+    <string name="resort_detail_weather">&#xf16d;</string>
+</resources>
